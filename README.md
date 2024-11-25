@@ -1,3 +1,3 @@
 # NomSouhaite
 
-[Voir la section x](md/README.md)
+[Voir la section x](rm/README.md)
